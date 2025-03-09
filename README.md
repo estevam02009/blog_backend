@@ -28,8 +28,10 @@ A RESTful API for a blog platform built with Node.js, Express, and MongoDB. This
 ## Installation
 
 1. Clone the repository
+
 ```bash
 git clone <repository-url>
+
 
 2. Install dependencies
 ```bash
