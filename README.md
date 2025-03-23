@@ -30,7 +30,7 @@ A RESTful API for a blog platform built with Node.js, Express, and MongoDB. This
 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/estevam02009/blog_backend.git)
 
 
 2. Install dependencies
